@@ -3,6 +3,10 @@
 >
 > 이름 중복을 피하기 위해 이렇게 되었음
 
-# Axyne
+<p align="center">
+  <img src="./icons/default.png" alt="Axyne logo" width=100>
+</p>
 
-> Lightweight Code Editor Within Custom Themes
+<h1 align="center">Axyne</h1>
+
+<p align="center">Lightweight Code Editor Within Custom Themes</a>
